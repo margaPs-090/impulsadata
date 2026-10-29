@@ -1,0 +1,32 @@
+services:
+  mysql:
+    build: ./mysql
+    container_name: impulsadata_mysql
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    restart: unless-stopped
+
+  postgres:
+    build: ./postgres
+    container_name: impulsadata_postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  mariadb:
+    build: ./mariadb
+    container_name: impulsadata_mariadb
+    ports:
+      - "3307:3306"   # 3307 fuera, 3306 dentro, para no chocar con MySQL
+    volumes:
+      - mariadb_data:/var/lib/mysql
+    restart: unless-stopped
+
+volumes:
+  mysql_data:
+  postgres_data:
+  mariadb_data:
