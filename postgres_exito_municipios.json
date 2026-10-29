@@ -1,0 +1,122 @@
+[
+    {
+        "municipio": "Santa Cruz de Tenerife",
+        "provincia": "Salamanca",
+        "total_candidaturas": 37,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Vizcaya",
+        "provincia": "Girona",
+        "total_candidaturas": 33,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Zaragoza",
+        "provincia": "Álava",
+        "total_candidaturas": 29,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Ceuta",
+        "provincia": "León",
+        "total_candidaturas": 28,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Ceuta",
+        "provincia": "Badajoz",
+        "total_candidaturas": 26,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Castellón",
+        "provincia": "Sevilla",
+        "total_candidaturas": 24,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Valencia",
+        "provincia": "Badajoz",
+        "total_candidaturas": 24,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Cáceres",
+        "provincia": "Lleida",
+        "total_candidaturas": 23,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Cuenca",
+        "provincia": "Lleida",
+        "total_candidaturas": 22,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Cáceres",
+        "provincia": "Huesca",
+        "total_candidaturas": 21,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Ávila",
+        "provincia": "Navarra",
+        "total_candidaturas": 21,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Palencia",
+        "provincia": "Las Palmas",
+        "total_candidaturas": 21,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Cuenca",
+        "provincia": "Santa Cruz de Tenerife",
+        "total_candidaturas": 21,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Navarra",
+        "provincia": "Cantabria",
+        "total_candidaturas": 21,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Albacete",
+        "provincia": "Ávila",
+        "total_candidaturas": 20,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Valladolid",
+        "provincia": "Guipúzcoa",
+        "total_candidaturas": 20,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Huelva",
+        "provincia": "Huelva",
+        "total_candidaturas": 19,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Pontevedra",
+        "provincia": "Santa Cruz de Tenerife",
+        "total_candidaturas": 19,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Alicante",
+        "provincia": "Sevilla",
+        "total_candidaturas": 19,
+        "total_contratados": 0
+    },
+    {
+        "municipio": "Ávila",
+        "provincia": "Jaén",
+        "total_candidaturas": 18,
+        "total_contratados": 0
+    }
+]

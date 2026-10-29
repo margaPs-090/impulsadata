@@ -1,0 +1,62 @@
+[
+    {
+        "curso": "Curso de Francés",
+        "duracion_horas": 298,
+        "num_competencias_ensenadas": 3,
+        "ofertas_que_requieren_esas_competencias": 46
+    },
+    {
+        "curso": "Curso de Comunicación",
+        "duracion_horas": 153,
+        "num_competencias_ensenadas": 3,
+        "ofertas_que_requieren_esas_competencias": 45
+    },
+    {
+        "curso": "Curso de Contabilidad",
+        "duracion_horas": 76,
+        "num_competencias_ensenadas": 3,
+        "ofertas_que_requieren_esas_competencias": 43
+    },
+    {
+        "curso": "Curso de Trabajo en equipo",
+        "duracion_horas": 138,
+        "num_competencias_ensenadas": 2,
+        "ofertas_que_requieren_esas_competencias": 40
+    },
+    {
+        "curso": "Curso de Java",
+        "duracion_horas": 67,
+        "num_competencias_ensenadas": 3,
+        "ofertas_que_requieren_esas_competencias": 37
+    },
+    {
+        "curso": "Curso de Redes sociales",
+        "duracion_horas": 25,
+        "num_competencias_ensenadas": 2,
+        "ofertas_que_requieren_esas_competencias": 37
+    },
+    {
+        "curso": "Curso de Electricidad",
+        "duracion_horas": 112,
+        "num_competencias_ensenadas": 2,
+        "ofertas_que_requieren_esas_competencias": 36
+    },
+    {
+        "curso": "Curso de SQL",
+        "duracion_horas": 240,
+        "num_competencias_ensenadas": 2,
+        "ofertas_que_requieren_esas_competencias": 36
+    },
+    {
+        "curso": "Curso de Word y documentos",
+        "duracion_horas": 75,
+        "num_competencias_ensenadas": 2,
+        "ofertas_que_requieren_esas_competencias": 34
+    },
+    {
+        "curso": "Curso de Atención al cliente",
+        "duracion_horas": 182,
+        "num_competencias_ensenadas": 2,
+        "ofertas_que_requieren_esas_competencias": 34
+    }
+]
